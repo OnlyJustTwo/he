@@ -1,0 +1,38 @@
+{
+    "name" : "runda",
+    "appid" : "__UNI__FCAF035",
+    "description" : "RunDa",
+    "versionName" : "1.0.0",
+    "versionCode" : 100,
+    "transformPx" : false,
+    "h5" : {
+        "devServer" : {
+            "https" : false
+        },
+        "title" : "runda",
+        "router" : {
+            "base" : "/runda/",
+            "mode" : "hash"
+        },
+        "optimization" : {
+            "treeShaking" : {
+                "enable" : true
+            }
+        },
+        "domain" : "mouxangitee.gitee.io",
+        "uniStatistics" : {
+            "enable" : true
+        },
+        "template" : ""
+    },
+    "mp-weixin" : {
+        "setting" : {
+            "urlCheck" : false
+        }
+    },
+    "mp-baidu" : {
+        "setting" : {
+            "urlCheck" : false
+        }
+    }
+}

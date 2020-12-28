@@ -1,0 +1,10 @@
+{
+	"name": "unicloud-api",
+	"version": "2.0.1",
+	"description": "统一云函数",
+	"main": "index.js",
+	"license": "MIT",
+	"dependencies": {
+		"qr-image": "^3.2.0"
+	}
+}

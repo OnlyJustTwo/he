@@ -1,0 +1,34 @@
+// 在本文件中可配置云数据库初始化，数据格式见：https://uniapp.dcloud.io/uniCloud/quickstart?id=db-init
+
+// 编写完毕后对本文件点右键，可按配置规则创建表和添加数据
+
+
+{
+	"admin": {
+		"data": [{
+			"username": "admin",
+			"password": "cc467cc7b384b2d978be83c6dd6c0d2259d74872",
+			"token": [],
+			"avatar": "https://img.cdn.aliyun.dcloud.net.cn/uni-app/uniCloud/unicloudlogo.png",
+			"roles_id": "5ec1f715f8eeb6004dc291f6",
+			"status": 0
+		}]
+	},
+	"roles": {
+		"data": [{
+			"_id": "5ec1f715f8eeb6004dc291f6",
+			"name": "超级权限",
+			"node": [
+				"user",
+				"roles"
+			],
+			"status": 0
+		}]
+	},
+	"verify": {
+		"data": []
+	},
+	"code": {
+		"data": []
+	}
+}
